@@ -1,0 +1,321 @@
+body{
+    margin: 0;
+}
+
+.header{
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-image: url("ZzgbPHidO379.png");
+    background-size: cover;
+}
+.header_box1{
+    left: 20%;
+    position: absolute;
+    color: white;
+}
+th {
+    padding: 20px 40px 20px 40px;
+}
+.box1_{
+    top: 0;
+    background-color: crimson;
+}
+.header_box2{
+    position: absolute;
+    top: 40%;
+    left: 24%;
+}
+.ima1{
+    width: 750px;
+    height: 200px;
+}
+.welcome{
+    position: relative;
+    top: 100px;
+    height: 450px;
+}
+.welcomebackground{
+    position: relative;
+    background-color: darkgrey;
+    width: 100%;
+    height: 300px;
+}
+.welcomeimg{
+    position: absolute;
+    height: 320px;
+    width: 250px;
+    left: 20%;
+    top: 5%;
+}
+.welcometext{
+    position:absolute;
+    height: 320px;
+    width: 550px;
+    top: 5%;
+    left: 525px;
+    background-color: white;
+}
+.weltextbox{
+    position: relative;
+    left: 50px;
+}
+.welcomevedio{
+    position: absolute;
+    background-color:rgba(255, 105, 180, 0.85);
+    left:30%;
+    bottom: 10%;
+    width: 200px;
+    height: 150px;
+}
+.welvediobox{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+}
+.series{
+    position: relative;
+    height: 800px;
+    text-align: center;
+}
+.sebox1{
+    position: absolute;
+    font-size: 30px;
+    top: 20%;
+    left: 43%;
+}
+.sebox2{
+    font-size: 13px;
+    position: absolute;
+    top: 40%;
+    left: 20%;
+}
+.sebox3 {
+    font-size: 13px;
+    position: absolute;
+    top: 40%;
+    left: 43%;
+}
+.sebox4 {
+    font-size: 13px;
+    position: absolute;
+    top: 40%;
+    left: 70%;
+}
+.sebox5{
+    position: absolute;
+    background-color:black;
+    left: 45%;
+    top: 70%;
+    color: white;
+    height: 60px;
+    width: 150px;
+    font-size: 20px;
+}
+.twopens{
+    position: relative;
+    background-image: url("p24964204.png");
+    background-size: 1410px 500px;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.twopenscontent{
+    position: absolute;
+    background-color:crimson;
+    color: white;
+    width: 90px;
+    height: 25px;
+    top: 55%;
+    left: 20%;
+    text-align: center;
+}
+.person{
+    position: relative;
+    height: 380px;
+}
+.personbox1{
+    position: relative;
+    width: 100%;
+    height: 50%;
+    background-color:darkgray;
+
+}
+.personbox2{
+    position: absolute;
+    left: 42%;
+    top: 12%;
+    height: 100px;
+    text-align: center;
+}
+.personimg1{
+    position: absolute;
+    right: 22%;
+    top: 15%;
+    height: 15px;
+}
+.personbox3{
+    position: absolute;
+    background-color: white;
+    text-align: center;
+    top: 30%;
+    left: 23%;
+    height: 400px;
+    width: 700px;
+}
+.personimg3{
+    position: absolute;
+    bottom: 4%;
+    left: 45%;
+}
+.personbox4{
+    position: absolute;
+    left: 42%;
+    bottom: 1%;
+    font-size:x-large;
+    font-weight: 900;
+    height: 1px;
+}
+.photos{
+    position: relative;
+    height: 900px;
+}
+.photo1{
+    position: absolute;
+    left: 17%;
+    top: 10%;
+}
+.photo2{
+    position: absolute;
+    left: 17%;
+    bottom: 25%;
+}
+.photo3{
+    position: absolute;
+    left: 39.5%;
+    top: 10%;
+}
+.photo4{
+    position: absolute;
+    left: 39.5%;
+    bottom: 25%;
+}
+.photo5{
+    position: absolute;
+    left: 62%;
+    top: 10%;
+}
+.photo6{
+    position: absolute;
+    left: 62%;
+    bottom: 25%;
+}
+.photobox{
+    position: absolute;
+    left: 43%;
+    bottom: 15%;
+    background-color: dimgrey;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    color: white;
+}
+.newrecommend{
+    position: relative;
+    height: 600px;
+}
+.newrebox1{
+    position: relative;
+    background-color: dimgrey;
+    height: 300px;
+}
+.newrebox2{
+    position: absolute;
+    background-color: white;
+    top: 20%;
+    left: 30%;
+    width: 600px;
+    height: 450px;
+}
+.recoimg1{
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    width: 250px;
+    height: 80px;
+}
+.recoimg2 {
+    position: absolute;
+    top: 23%;
+    left: 3%;
+    width: 250px;
+    height: 80px;
+}
+.recoimg3 {
+    position: absolute;
+    top: 43%;
+    left: 3%;
+    width: 250px;
+    height: 80px;
+}
+.recotext1{
+    position: absolute;
+    top: 1%;
+    right: 3%;
+}
+.recotext2{
+    position: absolute;
+    top: 21%;
+    right: 6.5%;
+}
+.recotext3 {
+    position: absolute;
+    top: 41%;
+    right: 5%;
+}
+.newrebox3{
+    position: absolute;
+    left: 45%;
+    bottom: 20%;
+    background-color:crimson;
+    color: white;
+    width: 150px;
+    height: fit-content;
+    text-align: left;
+}
+.bott{
+    position: relative;
+    background-image: url("u=28410840982707058765&fm=27&gp=0.png");
+    background-size: cover;
+    background-position: center center;
+    height: 600px;
+    margin-bottom: 0;
+}
+.bottimg{
+    position: absolute;
+    left: 43%;
+    top: 20%;
+    width: 220px;
+    height: 50px;
+}
+.bottbox1{
+    position: absolute;
+    left: 37%;
+    top: 20%;
+    font-weight: 900;
+    text-align: right;
+}
+.bottbox2{
+    position: absolute;
+    left: 60%;
+    top: 20%;
+    font-weight: 900;
+}
+.realbott{
+    position: relative;
+    background-color: dimgrey;
+    text-align: center;
+    height: 20px;
+    margin-top: 0;
+    border-top-width: 0;
+    top: 0  ;
+}
