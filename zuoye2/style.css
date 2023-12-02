@@ -50,6 +50,7 @@ body{
     color: white;
     width: 300px;
     height: 7%;
+    z-index: 100;
 }
 .nameinput{
     width: 150px;
@@ -60,6 +61,7 @@ body{
     color: white;
     width: 300px;
     height: 7%;
+    z-index: 100;
 }
 .lnameinput {
     width: 150px;
@@ -70,11 +72,13 @@ body{
     color: white;
     width: 300px;
     height: 7%;
+    z-index: 100;
 }
 .password{
     color: white;
     width: 300px;
     height: 7%;
+    z-index: 100;
 }
 .emailinput{
     background-color: transparent;
@@ -87,6 +91,7 @@ body{
 .signup{
     width: 300px;
     height: 7%;
+    z-index: 100;
 }
 .botton{
     background-color: white;
